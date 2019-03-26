@@ -25,7 +25,7 @@ SECRET_KEY = '^f2)g$vu8a9(!rt=7$_&%=yc_jj$ll^y)ltz4r14d0w-vp38!n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['danywebdesign.pythonanywhere.com']
 
 
 # Application definition
